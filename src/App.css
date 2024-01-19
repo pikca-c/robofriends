@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Semplicit";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Semplicit"), url("Semplicita-Medium.woff") format("woff");
+}
+
+h1 {
+  font-family: "Semplicit";
+}
